@@ -23,7 +23,7 @@ export default function Home() {
                 </h1>
                 <p>
                   Set the trends for desktop &amp; server virtualization
-                  technology
+                  technologys
                 </p>
                 <div className="hero-button mt-30">
                   <a href="#" className="btn btn--secondary">
